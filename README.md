@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on fun projects! I've been interested in signals as of late.
+- 🌱 I’m currently learning about software development best practices, specifically in AWS.
+- 👯 I’m looking to collaborate on partial differential equations and signal processing.
+- 🤔 I’m looking for help with class objects in Python.
+- 💬 Ask me about data science, graphs, and dynamical systems.
+- 📫 How to reach me: diramputri at gmail dot com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: My comfort movie after a rough day is "The Princess Diaries"
+
 <!--
 **diramputri/diramputri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
